@@ -458,6 +458,9 @@ class ContainerCollector(Collector):
         "yarn-exporter",
         "nvidia-drivers",
         "docker-cleaner",
+        "dshuttle-master",
+        "dshuttle-worker",
+        "dshuttle-fuse",
 
         # Below are DLTS services
         "nginx",
